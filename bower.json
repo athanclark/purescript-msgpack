@@ -7,6 +7,7 @@
     "example",
     "output"
   ],
+  "license": "BSD-3-Clause",
   "dependencies": {
     "purescript-prelude": "^3.1.0",
     "purescript-console": "^3.0.0",
@@ -20,5 +21,9 @@
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/athanclark/purescript-msgpack.git"
   }
 }
